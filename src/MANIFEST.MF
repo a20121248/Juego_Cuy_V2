@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Created-By: 1.8.0_66 (Oracle Corporation)
 Class-Path: Libreria.jar
-Main-Class: View.Juego
+Main-Class: Juego.Principal

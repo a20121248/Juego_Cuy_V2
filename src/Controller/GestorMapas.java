@@ -340,7 +340,6 @@ public class GestorMapas {
     }
 
     public void realizarMovimiento(int mov) {
-
         Celda c, c2 = null;
         int posXAux, posYAux;
         if (mov == -1) {
@@ -454,7 +453,6 @@ public class GestorMapas {
             } else {
                 celdaOriginal1.setEspecial(0);
             }
-
             return comandoActual;
         } else if (especial == 2) { //comando dual
 
